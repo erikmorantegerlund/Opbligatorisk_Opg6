@@ -1,1 +1,0 @@
-# Opbligatorisk_Opg6

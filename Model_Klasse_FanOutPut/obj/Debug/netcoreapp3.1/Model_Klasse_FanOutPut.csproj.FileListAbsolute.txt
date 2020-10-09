@@ -1,0 +1,9 @@
+C:\Users\erikg\OneDrive\Dokumenter\Datamatiker 3\Obligatorisk Opgave - 3 Semester\Model_Klasse_FanOutPut\Model_Klasse_FanOutPut\bin\Debug\netcoreapp3.1\Model_Klasse_FanOutPut.deps.json
+C:\Users\erikg\OneDrive\Dokumenter\Datamatiker 3\Obligatorisk Opgave - 3 Semester\Model_Klasse_FanOutPut\Model_Klasse_FanOutPut\bin\Debug\netcoreapp3.1\Model_Klasse_FanOutPut.dll
+C:\Users\erikg\OneDrive\Dokumenter\Datamatiker 3\Obligatorisk Opgave - 3 Semester\Model_Klasse_FanOutPut\Model_Klasse_FanOutPut\bin\Debug\netcoreapp3.1\Model_Klasse_FanOutPut.pdb
+C:\Users\erikg\OneDrive\Dokumenter\Datamatiker 3\Obligatorisk Opgave - 3 Semester\Model_Klasse_FanOutPut\Model_Klasse_FanOutPut\obj\Debug\netcoreapp3.1\Model_Klasse_FanOutPut.csprojAssemblyReference.cache
+C:\Users\erikg\OneDrive\Dokumenter\Datamatiker 3\Obligatorisk Opgave - 3 Semester\Model_Klasse_FanOutPut\Model_Klasse_FanOutPut\obj\Debug\netcoreapp3.1\Model_Klasse_FanOutPut.AssemblyInfoInputs.cache
+C:\Users\erikg\OneDrive\Dokumenter\Datamatiker 3\Obligatorisk Opgave - 3 Semester\Model_Klasse_FanOutPut\Model_Klasse_FanOutPut\obj\Debug\netcoreapp3.1\Model_Klasse_FanOutPut.AssemblyInfo.cs
+C:\Users\erikg\OneDrive\Dokumenter\Datamatiker 3\Obligatorisk Opgave - 3 Semester\Model_Klasse_FanOutPut\Model_Klasse_FanOutPut\obj\Debug\netcoreapp3.1\Model_Klasse_FanOutPut.csproj.CoreCompileInputs.cache
+C:\Users\erikg\OneDrive\Dokumenter\Datamatiker 3\Obligatorisk Opgave - 3 Semester\Model_Klasse_FanOutPut\Model_Klasse_FanOutPut\obj\Debug\netcoreapp3.1\Model_Klasse_FanOutPut.dll
+C:\Users\erikg\OneDrive\Dokumenter\Datamatiker 3\Obligatorisk Opgave - 3 Semester\Model_Klasse_FanOutPut\Model_Klasse_FanOutPut\obj\Debug\netcoreapp3.1\Model_Klasse_FanOutPut.pdb

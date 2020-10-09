@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WmjxQ1QO/6gqLlxXWCQslhiC3T+aFZEReDANbXY1HS8r3C51oR76RPZ0HMp3oLQbX0PRYsF655GHG2dD5QrG+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erikg\\OneDrive\\Dokumenter\\Datamatiker 3\\Obligatorisk Opgave - 3 Semester\\Model_Klasse_FanOutPut\\EchoServer_Obli_Opg6\\EchoServer_Obli_Opg6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erikg\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
